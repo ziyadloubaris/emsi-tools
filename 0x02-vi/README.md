@@ -8,3 +8,4 @@
 5. <code>5-beginning_line</code>command to move the cursor to the start of the current line
 6. <code>6-end_line</code>command to move the cursor to the end of the line
 7. <code>100-move_to_line</code>command to move the cursor to line 32
+8. <code>101-delete_line</code>command to delete the current and previous line at the same time
