@@ -6,3 +6,4 @@
 3. <code>3-undoing</code>command to undo what you just did
 4. <code>4-exiting</code> command to quit vi even though latest changes have not been saved for this vi call
 5. <code>5-beginning_line</code>command to move the cursor to the start of the current line
+6. <code>6-end_line</code>command to move the cursor to the end of the line
